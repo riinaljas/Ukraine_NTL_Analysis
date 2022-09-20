@@ -6,9 +6,7 @@ This code was produced for my thesis project and is not designed to be a stand a
 VNP46A2 NTL data is imported and transformed into a raster format, and averaged and analysed in a variety of ways. Producing time series data, maps, and more. 
 A minimal amount of ArcMap was also used in the analysis, which is described where appropriate in the comments.
 
-Suomi NPP VNP46A2 datasets was acquired from the Level-1 and Atmosphere Archive & Distribution
-System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard
-Space Flight Center in Greenbelt, Maryland (https://ladsweb.nascom.nasa.gov/).
+This work makes heavy use of Suomi NPP VNP46A2 datasets was acquired from the Level-1 and Atmosphere Archive & Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland (https://ladsweb.nascom.nasa.gov/).
 
 MIT License
 
